@@ -490,7 +490,6 @@ The unified Streamlit application provides a common interface through which user
 This modular approach demonstrates how multiple AI models can be combined into a single practical content verification system.
 
 ---
-Note: The reported accuracy values belong to the individual models' respective test datasets. Predictions on new, unseen content may vary.
 
 
 
