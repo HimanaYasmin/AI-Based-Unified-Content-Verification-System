@@ -1,4 +1,4 @@
-# AI Based Unified Content Verification System
+# AI-Based Unified Content Verification System
 
 An AI-powered content verification application that detects **fake news, AI-generated text, and deepfake images** using machine learning and deep learning techniques.
 
